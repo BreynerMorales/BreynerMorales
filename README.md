@@ -68,8 +68,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </div>
 <br>
-
-<!--Footer GIF-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
